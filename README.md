@@ -30,5 +30,3 @@ I design and build web products end-to-end — SaaS, client sites, and tools.
 </table>
 
 TypeScript · React · Next.js · Python · Tailwind
-
-Building something? I take on a few projects a year — <a href="mailto:safatlockin@gmail.com">safatlockin@gmail.com</a> · <a href="https://x.com/adeebhoque">X</a>
