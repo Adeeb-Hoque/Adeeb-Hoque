@@ -19,14 +19,6 @@ I design and build web products end-to-end — SaaS, client sites, and tools.
       <a href="https://flexforge.fit">Live</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/northfall.png" alt="Northfall" width="100%">
-      <b>Northfall</b><br>
-      Conversion-focused brand site for a roofing company.
-    </td>
-    <td width="50%"></td>
-  </tr>
 </table>
 
 TypeScript · React · Next.js · Python · Tailwind
