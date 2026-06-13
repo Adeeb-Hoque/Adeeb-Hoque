@@ -1,0 +1,34 @@
+# Adeeb Hoque
+
+I design and build web products end-to-end — SaaS, client sites, and tools.
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://adeeb-hoque.github.io/logo-studio/"><img src="assets/logo-studio.png" alt="Logo Studio" width="100%"></a>
+      <b>Logo Studio</b><br>
+      Compositional SVG logo design tool — layers, gradients, icon search, exports.<br>
+      <a href="https://github.com/Adeeb-Hoque/logo-studio">Repo</a> · <a href="https://adeeb-hoque.github.io/logo-studio/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://flexforge.vercel.app"><img src="assets/flexforge.png" alt="FlexForge" width="100%"></a>
+      <b>FlexForge</b><br>
+      Brand site and content system for a fitness brand.<br>
+      <a href="https://flexforge.vercel.app">Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/northfall.png" alt="Northfall" width="100%">
+      <b>Northfall</b><br>
+      Conversion-focused brand site for a roofing company.
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+TypeScript · React · Next.js · Python · Tailwind
+
+Building something? I take on a few projects a year — <a href="mailto:safatlockin@gmail.com">safatlockin@gmail.com</a> · <a href="https://x.com/adeebhoque">X</a>
