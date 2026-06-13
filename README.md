@@ -13,10 +13,10 @@ I design and build web products end-to-end — SaaS, client sites, and tools.
       <a href="https://github.com/Adeeb-Hoque/logo-studio">Repo</a> · <a href="https://adeeb-hoque.github.io/logo-studio/">Live demo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://flexforge.vercel.app"><img src="assets/flexforge.png" alt="FlexForge" width="100%"></a>
+      <a href="https://flexforge.fit"><img src="assets/flexforge.png" alt="FlexForge" width="100%"></a>
       <b>FlexForge</b><br>
       Brand site and content system for a fitness brand.<br>
-      <a href="https://flexforge.vercel.app">Live</a>
+      <a href="https://flexforge.fit">Live</a>
     </td>
   </tr>
   <tr>
